@@ -1,7 +1,7 @@
 {
   "name": "oblak/whmcs-stubs",
   "description": "WHMCS Stubs for your IDE",
-  "version": "7.10.1",
+  "version": "7.10.2",
   "type": "library",
   "license": "MIT",
   "authors": [
