@@ -1,0 +1,29 @@
+{
+  "name": "oblak/whmcs-stubs",
+  "description": "WHMCS Stubs for your IDE",
+  "version": "7.10.1",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sibin Grasic",
+      "email": "sibin.grasic@oblak.studio",
+      "homepage": "https://oblak.host"
+    }
+  ],
+  "keywords": [
+    "JetBrains",
+    "PHPStorm",
+    "stubs",
+    "autocomplete",
+    "type",
+    "inference",
+    "code",
+    "inspection",
+    "whmcs",
+    "dev"
+  ],
+  "support": {
+    "issues": "https://github.com/oblakhost/whmcs-stubs"
+  }
+}
